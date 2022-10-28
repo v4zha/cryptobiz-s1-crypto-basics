@@ -13,46 +13,44 @@ This repo provides required info and references for first session of CryptoBiz s
 
 #### Symmetric Encryption
 
-[**AES**](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+- [**AES**](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 
-<br>
-
-Online platforms to try out AES : 
-- [cyberchef](https://cyberchef.org/)
+    Online platforms to try out AES : 
+    - [cyberchef](https://cyberchef.org/)
   
 #### Asymmetric Encryption
 
-[**RSA**](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+- [**RSA**](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 
-Online platforms to try out RSA : 
-- [cyberchef](https://cyberchef.org/)
+    Online platforms to try out RSA : 
+    - [cyberchef](https://cyberchef.org/)
+
 #### Diffie–Hellman key exchange
-
-[ModuloArithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
+ - [Modulo arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
 <br>
 
-[Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
+  - [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
+
 Online platforms to try out Hashing : 
 - [df-demo](https://alexholker.github.io/cryptographydemo/diffiehellman.html)
 
 #### Hashing
-[**HashFunctions**](https://en.wikipedia.org/wiki/Hash_function)
-
+  - [**HashFunctions**](https://en.wikipedia.org/wiki/Hash_function)
 <br>
+  - [**sha-2**](https://en.wikipedia.org/wiki/SHA-2)
 
-[**sha-2**](https://en.wikipedia.org/wiki/SHA-2)
-Online platforms to try out Hashing : 
-- [cyberchef](https://cyberchef.org/)
+- Online platforms to try out Hashing : 
+  - [cyberchef](https://cyberchef.org/)
 
 #### Mirkle Trees
 
 [**Tree Data Structure**](https://en.wikipedia.org/wiki/Tree_(data_structure))
 <br>
-
 [**Mirkle Trees**](https://en.wikipedia.org/wiki/Merkle_tree)
 
 Online platforms to try out  : 
 - [merkle tree demo](https://prathamudeshmukh.github.io/merkle-tree-demo/)
+- [101blockchain](https://101blockchain.net/basics/merkle-tree)
 
 ## **Problem Statement**
 1. Radeesh Interupts Coversations of two Scientists Ramu and Damu , where they wish to share a secret number without radesh eavesdropping.Ramu and Damu  uses Diffie–Hellman key exchange to share the secret number.
