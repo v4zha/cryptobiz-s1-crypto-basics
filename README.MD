@@ -24,6 +24,9 @@ This repo provides required info and references for first session of CryptoBiz s
 
     Online platforms to try out RSA : 
     - [cyberchef](https://cyberchef.org/)
+    
+    Tools used in CTF to crack weak RSA:
+    - [RsaCtfTools](https://github.com/RsaCtfTool/RsaCtfTool)
 
 #### Diffie–Hellman key exchange
  - [Modulo arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
