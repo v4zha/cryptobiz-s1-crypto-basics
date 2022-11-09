@@ -40,7 +40,7 @@ Online platforms to try out Hashing :
 #### Hashing
   - [**HashFunctions**](https://en.wikipedia.org/wiki/Hash_function)
 <br>
-  - [**sha-2**](https://en.wikipedia.org/wiki/SHA-2)
+  - [**sha2**](https://en.wikipedia.org/wiki/SHA-2)
 
 - Online platforms to try out Hashing : 
   - [cyberchef](https://cyberchef.org/)
