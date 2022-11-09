@@ -40,6 +40,7 @@ Online platforms to try out Hashing :
 #### Hashing
   - [**HashFunctions**](https://en.wikipedia.org/wiki/Hash_function)
 <br>
+
   - [**sha2**](https://en.wikipedia.org/wiki/SHA-2)
 
 - Online platforms to try out Hashing : 
@@ -49,6 +50,7 @@ Online platforms to try out Hashing :
 
 [**Tree Data Structure**](https://en.wikipedia.org/wiki/Tree_(data_structure))
 <br>
+
 [**Mirkle Trees**](https://en.wikipedia.org/wiki/Merkle_tree)
 
 Online platforms to try out  : 
